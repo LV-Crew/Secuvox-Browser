@@ -11,7 +11,7 @@ A Firefox based browser aiming at privacy<br>
     /dom/events/EventListenerManager.cpp<br>
     /dom/events/JSEventHandler.cpp<br>
 <br>
-3.) Fingerprinting <br>
+3.) Fingerprinting<br>
     Screen size definiert zurückgeben<br>
     /dom/base/nsScreen.cpp<br>
 <br>
@@ -25,4 +25,4 @@ A Firefox based browser aiming at privacy<br>
     /layout/style/FontFaceSet.cpp<br>
 <br>
 6.) Adblocker<br>
-    /netwerk/dns/GetAddrInfo.cpp
+    /netwerk/dns/GetAddrInfo.cpp<br>
