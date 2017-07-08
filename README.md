@@ -26,3 +26,6 @@ A Firefox based browser aiming at privacy<br>
 <br>
 6.) Adblocker<br>
 &#160;&#160;&#160;&#160;&#160;/netwerk/dns/GetAddrInfo.cpp<br>
+<br>
+<br>
+http://www.secuvox-browser.com<br>
