@@ -31,8 +31,8 @@ Features:<br>
 &#160;&#160;&#160;&#160;&#160;/netwerk/dns/GetAddrInfo.cpp<br>
 <br>
 <br>
-To-dos:<br>
+To-dos:
 - Hide plugins Flash, Silverlight, Java<br>
 <br>
 <br>
-<br>http://www.secuvox-browser.com<br>
+Homepage-URL: http://www.Secuvox-Browser.com<br>
