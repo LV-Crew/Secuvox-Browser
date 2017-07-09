@@ -24,7 +24,7 @@ A Firefox based browser aiming at privacy<br>
 &#160;&#160;&#160;&#160;&#160;Keine fonts zurückgeben<br>
 &#160;&#160;&#160;&#160;&#160;/layout/style/FontFaceSet.cpp<br>
 <br>
-6.) Adblocker<br>
+6.) Adblocker based on a hosts-file<br>
 &#160;&#160;&#160;&#160;&#160;/netwerk/dns/GetAddrInfo.cpp<br>
 <br>
 <br>
